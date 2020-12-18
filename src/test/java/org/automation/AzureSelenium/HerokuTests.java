@@ -27,7 +27,7 @@ public class HerokuTests extends BaseTest {
 	public void verifyURLOfTheApplication() {
 		System.out.println("Get URL of the Application ======= " + driver.getCurrentUrl());
 		String url = driver.getCurrentUrl();
-		AssertJUnit.assertEquals(url, "http://the-internet.herokuapp.com/");
+		AssertJUnit.assertEquals(url, "http://the-internet.herokuapp");
 	}
 
 
