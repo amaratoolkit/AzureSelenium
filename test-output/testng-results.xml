@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51003" started-at="2021-03-28T21:03:18 IST" finished-at="2021-03-28T21:04:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51003" started-at="2021-03-28T21:03:18 IST" finished-at="2021-03-28T21:04:09 IST">
+      <class name="org.automation.AzureSelenium.HerokuTests">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.automation.AzureSelenium.HerokuTests@3967e60c]" name="launchBrowser" is-config="true" duration-ms="3032" started-at="2021-03-28T21:03:18 IST" finished-at="2021-03-28T21:03:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="alerts()[pri:0, instance:org.automation.AzureSelenium.HerokuTests@3967e60c]" name="alerts" duration-ms="13526" started-at="2021-03-28T21:03:21 IST" finished-at="2021-03-28T21:03:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerts -->
+        <test-method status="PASS" signature="dropDwown()[pri:0, instance:org.automation.AzureSelenium.HerokuTests@3967e60c]" name="dropDwown" duration-ms="7858" started-at="2021-03-28T21:03:34 IST" finished-at="2021-03-28T21:03:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDwown -->
+        <test-method status="PASS" signature="mouseHoverAndClick()[pri:0, instance:org.automation.AzureSelenium.HerokuTests@3967e60c]" name="mouseHoverAndClick" duration-ms="8431" started-at="2021-03-28T21:03:42 IST" finished-at="2021-03-28T21:03:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHoverAndClick -->
+        <test-method status="PASS" signature="sliderTest()[pri:0, instance:org.automation.AzureSelenium.HerokuTests@3967e60c]" name="sliderTest" duration-ms="7911" started-at="2021-03-28T21:03:51 IST" finished-at="2021-03-28T21:03:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderTest -->
+        <test-method status="PASS" signature="verifyTitleOfTheApplication()[pri:0, instance:org.automation.AzureSelenium.HerokuTests@3967e60c]" name="verifyTitleOfTheApplication" duration-ms="5017" started-at="2021-03-28T21:03:58 IST" finished-at="2021-03-28T21:04:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleOfTheApplication -->
+        <test-method status="PASS" signature="verifyURLOfTheApplication()[pri:0, instance:org.automation.AzureSelenium.HerokuTests@3967e60c]" name="verifyURLOfTheApplication" duration-ms="5018" started-at="2021-03-28T21:04:04 IST" finished-at="2021-03-28T21:04:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURLOfTheApplication -->
+        <test-method status="PASS" signature="killSession()[pri:0, instance:org.automation.AzureSelenium.HerokuTests@3967e60c]" name="killSession" is-config="true" duration-ms="98" started-at="2021-03-28T21:04:09 IST" finished-at="2021-03-28T21:04:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killSession -->
+      </class> <!-- org.automation.AzureSelenium.HerokuTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
